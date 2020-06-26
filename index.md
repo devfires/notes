@@ -7,6 +7,8 @@
 * [Key Bindings](Key Bindings)
 * [Test](Test.md)
 * [Test 2](Test 2.md)
+* [Test 3](Test_3.md)
+
 
 
 ## Generated Links
