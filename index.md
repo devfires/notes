@@ -6,6 +6,7 @@
 * [Appointments](Appointments) -- things I have to go to
 * [Key Bindings](Key Bindings)
 * [Test](Test.md)
+* [Test 2](Test 2.md)
 
 
 ## Generated Links
